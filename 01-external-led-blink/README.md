@@ -12,6 +12,7 @@ Basic project to blink an external LED connected to Pin 13 using Arduino Uno.
 
 ## Circuit Diagram
 ![Breadboard View](images/external_led_blink_bb.jpg)
+![Project Image](images/IMG_20260625_121125.jpg)
 
 ## Code
 ```cpp

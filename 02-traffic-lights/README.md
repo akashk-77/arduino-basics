@@ -17,6 +17,7 @@ Basic project to simulate a traffic light system using Arduino
 ![Breadboard View](images/traffic-lights.png)
 
 ## Project Video
+![Project Video](images/traffic-lights1.mp4)
 
 
 ## Code
